@@ -25,11 +25,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This collection is for personal use only. Please ensure you have the right to use these music files in your region.
 
-
-
-git init
-git add *
-git commit -m "nrx"
-git branch -M main
-git remote add origin https://github.com/neroxkira/MusicRandom.git
-git push -u origin main
